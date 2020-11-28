@@ -1,6 +1,6 @@
 ---
 title: "Journal (reproducible report)"
-author: "Hikmat Naim"
+author: "Hikmat"
 date: "2020-11-05"
 output:
   html_document:
